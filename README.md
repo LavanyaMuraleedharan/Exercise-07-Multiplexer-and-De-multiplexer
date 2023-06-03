@@ -63,7 +63,7 @@ now we can save and run the porgram.
 
 ### PROGRAM 
 ```
-Program for flipflops  and verify its truth table in quartus using Verilog programming.
+Program to verify multiplexer and demultiplexer using verilog programming
 Developed by: Lavanya M
 RegisterNumber: 212222110021 
 ```
